@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MyProductList.Models.Product>
+
+@{
+    ViewBag.Title = "Jettrend Interview Application";
+}
+
+<h2>Index</h2>
+
+
+<table>
+    <tr>
+        <th>
+            Products
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+    </tr>
+}
+
+</table>
+<br />
+<p>
+Birkan Kara
+<br />e: <a href="mailto:info@medyadev.com?subject=Jettrend Job Application">info@medyadev.com</a> 
+<br />e: <a href="mailto:mobilmedia@hotmail.com?subject=Jettrend Job Application">mobilmedia@hotmail.com</a> 
+<br />t: +90 535 690 5775
+</p>
+

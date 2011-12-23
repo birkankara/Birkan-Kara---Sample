@@ -1,0 +1,7 @@
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\bin\MyProductList.dll
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\bin\MyProductList.pdb
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\bin\EntityFramework.dll
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\bin\EntityFramework.xml
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\obj\Debug\ResolveAssemblyReference.cache
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\obj\Debug\MyProductList.dll
+D:\N1\CSHARPDEV\MVCTEST\MyProductList\MyProductList\obj\Debug\MyProductList.pdb
